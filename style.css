@@ -1,0 +1,16 @@
+* {
+    background-color: aqua;
+    color: orangered;
+}
+
+p,
+ul,
+.recipes {
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+.fire {
+    height: 800px;
+    width: 1200px;
+}
