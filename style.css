@@ -3,6 +3,7 @@
     color: orangered;
 }
 
+
 p,
 div,
 .recipes {
@@ -10,6 +11,14 @@ div,
     text-align: center;
 }
 
-img {
-    margin: 10px 50px 20px;
+
+header {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.title {
+    margin: 10px;
+    padding: 10px;
 }
